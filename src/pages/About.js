@@ -28,14 +28,14 @@ export const About = () => (
 
       <h2>Links</h2>
       <ul>
-        <li><a className="links" href="https://checkplease.wttw.com/restaurants/tiztal-cafe">Check Please</a></li>
-        <li><a className="links" href="https://www.chicagotribune.com/dining/ct-breakfast-with-ina-bryn-mawr-tiztal-cafe-20150317-story.html">Chicago Tribune - Breakfast</a></li>
-        <li><a className="links" href="https://www.chicagotribune.com/redeye/ct-redeye-best-milkshakes-chicago-ice-cream-20170728-story.html">Chicago Tribune - Shakes</a></li>
-        <li><a className="links" href="https://www.pressreader.com/search?query=tiztal%20cafe&languages=en&groupBy=Language&hideSimilar=0&type=1&state=1">Pressreader</a></li>
-        <li><a className="links" href="https://www.yelp.com/biz/tiztal-cafe-chicago-3?osq=Tiztal+Cafe">Tiztal Cafe on Yelp</a></li>
-        <li><a className="links" href="https://www.timeout.com/chicago/restaurants/where-to-find-the-best-milkshake">The best Milkshakes in chicago</a></li>
-        <li><a className="links" href="https://www.theinfatuation.com/chicago/reviews/tiztal-cafe">The Infatuation</a></li>
-        <li><a className="links" href="https://www.timeout.com/chicago/restaurants/tiztal-cafe">Time out</a></li>
+        <li><a className="links" target="_blank" href="https://checkplease.wttw.com/restaurants/tiztal-cafe">Check Please</a></li>
+        <li><a className="links" target="_blank" href="https://www.chicagotribune.com/dining/ct-breakfast-with-ina-bryn-mawr-tiztal-cafe-20150317-story.html">Chicago Tribune - Breakfast</a></li>
+        <li><a className="links" target="_blank" href="https://www.chicagotribune.com/redeye/ct-redeye-best-milkshakes-chicago-ice-cream-20170728-story.html">Chicago Tribune - Shakes</a></li>
+        <li><a className="links" target="_blank" href="https://www.pressreader.com/search?query=tiztal%20cafe&languages=en&groupBy=Language&hideSimilar=0&type=1&state=1">Pressreader</a></li>
+        <li><a className="links" target="_blank" href="https://www.yelp.com/biz/tiztal-cafe-chicago-3?osq=Tiztal+Cafe">Tiztal Cafe on Yelp</a></li>
+        <li><a className="links" target="_blank" href="https://www.timeout.com/chicago/restaurants/where-to-find-the-best-milkshake">The best Milkshakes in chicago</a></li>
+        <li><a className="links" target="_blank" href="https://www.theinfatuation.com/chicago/reviews/tiztal-cafe">The Infatuation</a></li>
+        <li><a className="links" target="_blank" href="https://www.timeout.com/chicago/restaurants/tiztal-cafe">Time out</a></li>
 
 
       </ul>
