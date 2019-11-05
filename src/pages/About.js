@@ -23,7 +23,7 @@ export const About = () => (
     <div className="layout">
       <h2>Story</h2>
 
-      <p>TIZTAL CAFÉ opened in May of 2008 at 4136 N. Clark Avenue, Chicago, in Uptown.  We are a fusion of Oasis, a juice bar in what was called the “Mega Mall” in Logan Square.  The fusion of this popular spot has made Tiztal Café the-go-to spot for Chicagoans for breakfast and lunch. We’ve had the pleasure and privilege of serving customers from Indiana, Wisconsin and many that come from out-of-town to visit loved ones.  We are a family owned and operated restaurant; it is why we treat everyone like part of the family!
+      <p>TIZTAL CAFÉ opened in May of 2008 at 4136 N. Clark Avenue, Chicago, in Uptown.  We originated from a juice bar in what was called the “Mega Mall” in Logan Square.  The fusion of this popular spot has made Tiztal Café the-go-to spot for Chicagoans for breakfast and lunch. We’ve had the pleasure and privilege of serving customers from Indiana, Wisconsin and many that come from out-of-town to visit loved ones.  We are a family owned and operated restaurant; it is why we treat everyone like part of the family!
 </p>
 
       <h2>Links</h2>
