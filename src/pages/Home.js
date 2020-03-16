@@ -66,7 +66,7 @@ export const Home = () => (
 
       <li>All surfaces and door handles are being sanitized and disinfected throughout the day
 </li>
-      <li>	Our dining area is CLOSED but we are available for carry out orders and deliveries if you are within our delivery service area [ 3 Mile Radius].
+      <li>	Our dining area is CLOSED but we are available for carry out orders and deliveries if you are within our delivery service area [ 3 Mile Radius ].
 </li>
 <br></br>
       <p>We will continue to follow updates and protocol suggested by credible agencies; therefore Tiztal Café will be closed for dine in until March 30, 2020.</p>
