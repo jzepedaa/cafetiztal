@@ -49,7 +49,7 @@ export const Home = () => (
   <Styles>
     <NavigationBar />
     <Container className="layout">
-      <h2 className="headLine">  TIZTAL IS OPEN FOR BUSINESS BUT DINING AREA IS CLOSED</h2>
+      <h2 className="headLine">  TIZTAL CAFÉ IS OPEN FOR BUSINESS BUT DINING AREA IS CLOSED</h2>
       <br></br>
       <h1 className="headLine">
         CALL (773)-271-4631 FOR DELIVERY - CURBSIDE PICK-UP - GRUBHUB
@@ -69,15 +69,16 @@ export const Home = () => (
       <li>	Our dining area is CLOSED but we are available for carry out orders and deliveries if you are within our delivery service area
 </li>
 <br></br>
-      <p>We will continue to follow updates and protocol suggested by credible agencies, therefore will be closed for dine in until March 30, 2020.</p>
+      <p>We will continue to follow updates and protocol suggested by credible agencies; therefore Tiztal Café will be closed for dine in until March 30, 2020.</p>
 
-      We thank you for your continued business.
+      We thank you for your continued business / support during this time.
 
       Sincerely,
 
       Tiztal Café Management and Staff
       
 </Container>
+<br></br>
 
 
       <SlideShow className="slideshow" />
