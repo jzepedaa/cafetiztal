@@ -49,6 +49,37 @@ export const Home = () => (
   <Styles>
     <NavigationBar />
     <Container className="layout">
+      <h2 className="headLine">  TIZTAL IS OPEN FOR BUSINESS BUT DINING AREA IS CLOSED</h2>
+      <br></br>
+      <h1 className="headLine">
+        CALL (773)-271-4631 FOR DELIVERY - CURBSIDE PICK-UP - GRUBHUB
+       </h1>
+      <Container className="postarea">
+    
+
+      <p>Dear Customers,</p>
+      
+
+      <p>At Tiztal Café, the health any safety of our staff and customers is always our top priority. With that in mind, we are taking many extra steps to ensure a healthy environment in light of the coronavirus developments and peak flu season.</p>
+
+      <p>We have always been committed to the safety of our customers and staff and the cleanliness of our restaurant. Every day, our staff diligently cleans the restaurant, and in addition to our daily routine we are also taking the following precautions:</p>
+
+      <li>All surfaces and door handles are being sanitized and disinfected throughout the day
+</li>
+      <li>	Our dining area is CLOSED but we are available for carry out orders and deliveries if you are within our delivery service area
+</li>
+<br></br>
+      <p>We will continue to follow updates and protocol suggested by credible agencies, therefore will be closed for dine in until March 30, 2020.</p>
+
+      We thank you for your continued business.
+
+      Sincerely,
+
+      Tiztal Café Management and Staff
+      
+</Container>
+
+
       <SlideShow className="slideshow" />
       <Container className="postarea">
 
@@ -62,6 +93,7 @@ export const Home = () => (
 
       </Container>
     </Container>
+    
   </Styles>
 
 )
