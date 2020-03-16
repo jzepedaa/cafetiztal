@@ -60,7 +60,7 @@ export const Home = () => (
       <p>Dear Customers,</p>
       
 
-      <p>At Tiztal Café, the health any safety of our staff and customers is always our top priority. With that in mind, we are taking many extra steps to ensure a healthy environment in light of the coronavirus developments and peak flu season.</p>
+      <p>At Tiztal Café, the health and safety of our staff and customers is always our top priority. With that in mind, we are taking many extra steps to ensure a healthy environment in light of the coronavirus developments and peak flu season.</p>
 
       <p>We have always been committed to the safety of our customers and staff and the cleanliness of our restaurant. Every day, our staff diligently cleans the restaurant, and in addition to our daily routine we are also taking the following precautions:</p>
 
