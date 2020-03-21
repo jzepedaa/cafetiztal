@@ -38,6 +38,7 @@ const Styles = styled.div`
 
 .headLine{
   text-align: center;
+  font-weight: bold;
 }
 
 
@@ -48,7 +49,28 @@ export const Home = () => (
 
   <Styles>
     <NavigationBar />
-    <Container className="layout">
+
+ <Container className="layout">
+   {/* <h2 className="headLine"> To all our customers</h2>
+   <h2 className="headLine"> In light of COVID-19 </h2>
+   <h2 className="headLine"> Tiztal Café will temporarily close until March 30th 2020. </h2>
+   <h2 className="headLine">We will open for business March 31st. </h2> */}
+   <Container className="postarea">
+
+
+     <h2 className="headLine">To all our customers, </h2>
+     <p className="headLine">In light of COVID-19, Tiztal Café will temporarily close until March 30th 2020. We will open for business March 31st. </p>
+     <p className="headLine">We will not be open for delivery or curbside pickup until further notice. </p>
+     <p className="headLine">Although this was a difficult decision to make, we greatly appreciate all of your support through this troubling time. </p>
+     <p className="headLine">From our Tiztal family to yours, we wish you all good health and to stay safe. </p>
+     <p className="headLine">We hope to come back stronger together. </p>
+     <p className="headLine">Sincerely, </p>
+     <p className="headLine">Your Tiztal Family </p>
+   
+   </Container>
+
+
+    {/* <Container className="layout">
       <h2 className="headLine">  TIZTAL CAFÉ IS OPEN FOR BUSINESS BUT DINING AREA IS CLOSED</h2>
       <br></br>
       <h1 className="headLine">
@@ -77,7 +99,7 @@ export const Home = () => (
 
       Tiztal Café Management and Staff
       
-</Container>
+</Container> */}
 <br></br>
 
 
