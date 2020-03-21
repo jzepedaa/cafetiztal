@@ -50,11 +50,8 @@ export const Home = () => (
   <Styles>
     <NavigationBar />
 
- <Container className="layout">
-   {/* <h2 className="headLine"> To all our customers</h2>
-   <h2 className="headLine"> In light of COVID-19 </h2>
-   <h2 className="headLine"> Tiztal Café will temporarily close until March 30th 2020. </h2>
-   <h2 className="headLine">We will open for business March 31st. </h2> */}
+ {/* <Container className="layout">
+  
    <Container className="postarea">
 
 
@@ -67,10 +64,10 @@ export const Home = () => (
      <p className="headLine">Sincerely, </p>
      <p className="headLine">Your Tiztal Family </p>
    
-   </Container>
+   </Container> */}
 
 
-    {/* <Container className="layout">
+    <Container className="layout">
       <h2 className="headLine">  TIZTAL CAFÉ IS OPEN FOR BUSINESS BUT DINING AREA IS CLOSED</h2>
       <br></br>
       <h1 className="headLine">
@@ -99,7 +96,7 @@ export const Home = () => (
 
       Tiztal Café Management and Staff
       
-</Container> */}
+</Container>
 <br></br>
 
 
