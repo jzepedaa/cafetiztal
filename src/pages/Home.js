@@ -50,7 +50,7 @@ export const Home = () => (
   <Styles>
     <NavigationBar />
 
- {/* <Container className="layout">
+    {/* <Container className="layout">
   
    <Container className="postarea">
 
@@ -74,30 +74,29 @@ export const Home = () => (
         CALL (773)-271-4631 FOR DELIVERY - CURBSIDE PICK-UP - GRUBHUB
        </h1>
       <Container className="postarea">
-    
 
-      <p>Dear Customers,</p>
-      
 
-      <p>At Tiztal Café, the health and safety of our staff and customers is always our top priority. With that in mind, we are taking many extra steps to ensure a healthy environment in light of the coronavirus developments and peak flu season.</p>
+        <p>Dear Customers,</p>
 
-      <p>We have always been committed to the safety of our customers and staff and the cleanliness of our restaurant. Every day, our staff diligently cleans the restaurant, and in addition to our daily routine we are also taking the following precautions:</p>
 
-      <li>All surfaces and door handles are being sanitized and disinfected throughout the day
-</li>
-      <li>	Our dining area is CLOSED but we are available for carry out orders and deliveries if you are within our delivery service area [ 3 Mile Radius ].
-</li>
-<br></br>
-      <p>We will continue to follow updates and protocol suggested by credible agencies; therefore Tiztal Café will be closed for dine in until March 30, 2020.</p>
+        <p>At Tiztal Café, the health and safety of our staff and customers is always our top priority. With that in mind, we are taking many extra steps to ensure a healthy environment in light of the coronavirus developments and peak flu season.</p>
+
+        <p>We have always been committed to the safety of our customers and staff and the cleanliness of our restaurant. Every day, our staff diligently cleans the restaurant, and in addition to our daily routine we are also taking the following precautions:</p>
+
+        <li>All surfaces and door handles are being sanitized and disinfected throughout the day</li>
+        <li>	Our dining area is CLOSED but our Patio is now open, and we are available for carry out orders and deliveries if you are within our delivery service area [ 3 Mile Radius ].
+        </li>
+        <br></br>
+        <p>We will continue to follow updates and protocol suggested by credible agencies; therefore Tiztal Café will be closed for dine in until further notice.</p>
 
       We thank you for your continued business / support during this time.
 
       Sincerely,
 
       Tiztal Café Management and Staff
-      
+
 </Container>
-<br></br>
+      <br></br>
 
 
       <SlideShow className="slideshow" />
@@ -113,7 +112,7 @@ export const Home = () => (
 
       </Container>
     </Container>
-    
+
   </Styles>
 
 )
