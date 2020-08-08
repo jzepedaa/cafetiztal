@@ -68,11 +68,10 @@ export const Home = () => (
 
 
     <Container className="layout">
-      <h2 className="headLine">  TIZTAL CAFÉ IS OPEN FOR BUSINESS BUT DINING AREA IS CLOSED</h2>
-      <br></br>
-      <h1 className="headLine">
-        CALL (773)-271-4631 FOR DELIVERY - CURBSIDE PICK-UP - GRUBHUB
-       </h1>
+      <h2 className="headLine">  TIZTAL CAFÉ IS OPEN FOR BUSINESS</h2>
+      <h2 className="headLine"> Dining and Patio Seating</h2>
+      {/* <br></br> */}
+
       <Container className="postarea">
 
 
@@ -84,10 +83,7 @@ export const Home = () => (
         <p>We have always been committed to the safety of our customers and staff and the cleanliness of our restaurant. Every day, our staff diligently cleans the restaurant, and in addition to our daily routine we are also taking the following precautions:</p>
 
         <li>All surfaces and door handles are being sanitized and disinfected throughout the day</li>
-        <li>	Our dining area is CLOSED but our Patio is now open!! We are also available for carry out orders and deliveries if you are within our delivery service area [ 3 Mile Radius ].
-        </li>
-        <br></br>
-        <p>We will continue to follow updates and protocol suggested by credible agencies; therefore Tiztal Café will be closed for dine in until further notice.</p>
+
 
       We thank you for your continued business / support during this time.
 
