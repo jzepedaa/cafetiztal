@@ -84,11 +84,12 @@ export const Home = () => (
 
         <li>All surfaces and door handles are being sanitized and disinfected throughout the day</li>
 
-
+        <br></br>
       We thank you for your continued business / support during this time.
-
+        <br></br>
+        <br></br>
       Sincerely,
-
+        <br></br>
       Tiztal Café Management and Staff
 
 </Container>
